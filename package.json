@@ -30,7 +30,7 @@
     "@smpx/oak": "^1.2.7",
     "lodash": "^4.17.11",
     "postinstall-postinstall": "^2.0.0",
-    "sm-utils": "^2.17.21",
+    "sm-utils": "^2.19.1",
     "telegraf": "^3.32.0",
     "universal-analytics": "^0.4.20"
   },
