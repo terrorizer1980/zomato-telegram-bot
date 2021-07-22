@@ -31,7 +31,7 @@
     "lodash": "^4.17.11",
     "postinstall-postinstall": "^2.0.0",
     "sm-utils": "^2.17.21",
-    "telegraf": "^3.32.0",
+    "telegraf": "^3.38.0",
     "universal-analytics": "^0.4.20"
   },
   "devDependencies": {
